@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is Jason Porta and I am a structural biologist focused mainly on computational cryo-electron microscopy (CryoEM).
+
 <!--
 **jasonporta/jasonporta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
