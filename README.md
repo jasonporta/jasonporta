@@ -4,7 +4,7 @@
 
 #### For about 15 years I have worked at the interface of scientists and IT professional and **_I am now transitioning into an IT related field_**.
 
-Such work includes:
+#### **Such work includes**:
 
 - **Linux** systems administration
 - Training graduate students to use the Linux command line and shell (**Bash**) scripting.
