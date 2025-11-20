@@ -1,21 +1,19 @@
 ## Hi there 🙋🏻‍♂️
 
-#### My name is **_Jason Porta_** and I am a structural biologist focused on computational cryo-electron microscopy (CryoEM). In the past I have worked on determining the 3D structures of biological macromolecules and also have done a lot of service work in providing computational support, which is my niche area of expertise.
+#### My name is **_Jason Porta_** and I am a structural biologist who uses cryo-electron microscopy (Cryo-EM) to determine molecular structures. I prefer to spend my time training and assisting users in the Cryo-EM facility, automating data processing workflows, managing big data and troubleshooting both hardware and software issues. 
 
-#### For about 15 years I have worked at the interface of scientists and IT professional and **_I am now transitioning into an IT related field_**.
+#### For about 15 years I have worked at the interface of scientists and IT professionals, and it is at this intersection of structural biology and computer science and I am the most content.
 
 #### **Such work includes**:
 
-- **Linux** systems administration
+- **Linux** 
 - Training graduate students to use the Linux command line and shell (**Bash**) scripting.
-- Writing scripts (**Bash/Python**) for job submission to a high performance computing (**HPC**) cluster (**PBS** and **Slurm**).
-- Creating data processing pipelines for general users of the computing cluster.
-- Extract, transform and load (**ETL**) raw data from the instrumentation.
-- Managing petabytes of raw and processed data and acting as an architect for how that data is stored and later curated.
-- Using **Python** and **Bash** to create software to automate the curation and cold storage of processed data.
-- Creating documentation in the form of computational user manuals and best practices.
-- Troubleshooting software and hardware issues for our Linux workstations.
-- Creating visualizations out of raw data and communicating them to a non-technical audience.
+- Writing scripts (**Bash/Python**) for batch job submission  (e.g., **PBS**, **Slurm**). to high performance computing (**HPC**) clusters.
+- Creating data processing pipelines for researchers who use the computing cluster.
+- Curating and managing petabytes of raw and processed data by use of university and public data repositories.
+- Creating documentation for scientific software, best practices manuals and lab protocols.
+- Troubleshooting hardware and software problems.
+- Processing raw data and creating graphical representations of the results.
 - Creating databases (**SQL**) of lab data sets, instrument bookings and invoicing.
 
 
